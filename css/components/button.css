@@ -1,0 +1,13 @@
+.btn-medium {
+  text-decoration: none;
+  background-color: wheat;
+  color: black;
+  padding: 8px 24px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 3px black;
+  transition: .5s;
+}
+
+.btn-medium:hover {
+ background-color: whitesmoke;
+}
